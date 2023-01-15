@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="G2 T2 U1 Jan 14" />
+              <option name="title_text" value="G2 T2 U1 Jan 15" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -78,7 +78,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1276,11 +1276,18 @@
             <slidelink slideid="_player.63gpgYMD5P8.5X6GEjCs4qy" displaytext="Jumping Arabic" expand="false" type="slide" />
             <slidelink slideid="_player.63gpgYMD5P8.6Rh0u146km5" displaytext="Eng" expand="false" type="slide" />
             <slidelink slideid="_player.63gpgYMD5P8.5UobLzeNHjl" displaytext="Jumping Eng" expand="false" type="slide" />
+            <slidelink slideid="_player.63gpgYMD5P8.6RVZ93ILxui" displaytext="Drag and Drop" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6NjQw9KKOGv" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6NjQw9KKOGv.6TwjiuvbUli" displaytext=" Minue" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6F3Ak6wWLI5" displaytext="S" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6F3Ak6wWLI5.5cbh22X8ZjH" displaytext="Jumping Eng" expand="false" type="slide" />
+            <slidelink slideid="_player.6F3Ak6wWLI5.67E8IrCj54G" displaytext="Drag and Drop" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
