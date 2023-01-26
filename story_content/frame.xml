@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="G2 T2 U1 Jan 25" />
+              <option name="title_text" value="G2 T2 U1 Jan 26" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1270,7 +1270,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.63gpgYMD5P8" displaytext="Unit 1" expand="true" type="slide">
+        <slidelink slideid="_player.63gpgYMD5P8" displaytext="Words" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.63gpgYMD5P8.65Diu1Njjvk" displaytext="Arabic" expand="false" type="slide" />
             <slidelink slideid="_player.63gpgYMD5P8.5X6GEjCs4qy" displaytext="Jumping Arabic" expand="false" type="slide" />
@@ -1284,20 +1284,15 @@
             <slidelink slideid="_player.6XyQoIAd5L3.6723vhD9XH3" displaytext="Images" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6NjQw9KKOGv" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6NjQw9KKOGv" displaytext="Home" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6NjQw9KKOGv.6TwjiuvbUli" displaytext=" Minue" expand="false" type="slide" />
+            <slidelink slideid="_player.6NjQw9KKOGv.6TwjiuvbUli" displaytext="Home" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6F3Ak6wWLI5" displaytext="S" expand="true" type="slide">
+        <slidelink slideid="_player.6F3Ak6wWLI5" displaytext="Statements" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6F3Ak6wWLI5.5cbh22X8ZjH" displaytext="Jumping Eng" expand="false" type="slide" />
             <slidelink slideid="_player.6F3Ak6wWLI5.67E8IrCj54G" displaytext="Drag and Drop" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5rg4kTg03iS" displaytext="Images" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5rg4kTg03iS.6OWd3jGWopr" displaytext="Images" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

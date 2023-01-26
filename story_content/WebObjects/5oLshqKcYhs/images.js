@@ -130,7 +130,7 @@ var randomName4 = names [Rand4] ;
 // connecting SL's object  to gsap through accessiblity text
 var myImage = document.querySelector(randomFile1);
 
-gsap.to(myImage, { x: 300, y: 80, duration: 1, ease: "bounce.out" });
+gsap.to(myImage, { x: 420, y: 120, duration: 1, ease: "bounce.out" });
 
 player.SetVar("WordA", randomName1 );
 player.SetVar("WordA1", randomName2 );
