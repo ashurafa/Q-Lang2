@@ -2,149 +2,152 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "60ryosHAvWN":
+      case "5augJjNg3QO":
         Script1();
         break;
-      case "6I6m7A7Qla2":
+      case "6QCh4iayxTU":
         Script2();
         break;
-      case "5YJZhA7OYds":
+      case "696oYV5VomO":
         Script3();
         break;
-      case "5mfIgJQ6c9z":
+      case "5kkc4v8UX4Y":
         Script4();
         break;
-      case "6DFFo7ZhvBi":
+      case "5qEZQSv8Jai":
         Script5();
         break;
-      case "5qeuXPTttBX":
+      case "5hkcN6IHR03":
         Script6();
         break;
-      case "6OUEILkwGqQ":
+      case "6Ffz2alB7sv":
         Script7();
         break;
-      case "6jrV8ABIP8G":
+      case "5y89CueI5gC":
         Script8();
         break;
-      case "5aOmKTMSeuD":
+      case "671QiWkTBqs":
         Script9();
         break;
-      case "6lpLBgyOC6v":
+      case "5okByzAmckg":
         Script10();
         break;
-      case "66Q4TTwYLgE":
+      case "6GA1bROzDMz":
         Script11();
         break;
-      case "5iDRSPOM2gH":
+      case "5xYZYHFIkk6":
         Script12();
         break;
-      case "6c9KzO4kAbn":
+      case "6QFK3G9tP8U":
         Script13();
         break;
-      case "6b14lbJw6xc":
+      case "65hcXaI5TCu":
         Script14();
         break;
-      case "5fY35pp0xL9":
+      case "6mSglaoSySb":
         Script15();
         break;
-      case "5vazFt5RyUJ":
+      case "5xPRWgmEFek":
         Script16();
         break;
-      case "67yp2lgNPI1":
+      case "5YmQfgBA9BV":
         Script17();
         break;
-      case "6gc4oAhMcxU":
+      case "69EQ8EGrrrT":
         Script18();
         break;
-      case "6gw2kCJUJja":
+      case "63j7wzcKzAP":
         Script19();
         break;
-      case "6MBXX6UxSOJ":
+      case "6XJ8wwlcT6N":
         Script20();
         break;
-      case "5wegSlfsUgi":
+      case "5XHXjzGMCck":
         Script21();
         break;
-      case "6pN1vNym4it":
+      case "6knZ9YqpfFE":
         Script22();
         break;
-      case "6c7XASxsVIt":
+      case "6faCy3xW6U5":
         Script23();
         break;
-      case "6OtCvrbigyK":
+      case "5yWp39GqKC1":
         Script24();
         break;
-      case "6KUQKacDXkl":
+      case "6SMWMwySiuw":
         Script25();
         break;
-      case "67rAvJObm42":
+      case "6pNrMNvq2Sa":
         Script26();
         break;
-      case "6O1fd6G7Gga":
+      case "6BLG3O8l2zV":
         Script27();
         break;
-      case "6ZFXnUYZDb1":
+      case "6cxLeTUw56u":
         Script28();
         break;
-      case "6AznrfzA2Le":
+      case "6RP03OweQFk":
         Script29();
         break;
-      case "6YKtem9tLe5":
+      case "5bK61RvudKZ":
         Script30();
         break;
-      case "6Hkwzvp3Y8n":
+      case "5toYxNhhRun":
         Script31();
         break;
-      case "5pRbt2BIITj":
+      case "64STIjypIy7":
         Script32();
         break;
-      case "6d9tC5GH9p6":
+      case "5iA5Nh9fMgC":
         Script33();
         break;
-      case "5pDVcQZFnH8":
+      case "6cWO8yxO0QT":
         Script34();
         break;
-      case "6ThWgNUIRwN":
+      case "6Cqp9j8221h":
         Script35();
         break;
-      case "6Lya1HvzHnV":
+      case "60VpDBoPleZ":
         Script36();
         break;
-      case "5gY5FE9XKC4":
+      case "6ZpNMcjsfRU":
         Script37();
         break;
-      case "6OIj6gaVqX0":
+      case "5wiHrLlDv2m":
         Script38();
         break;
-      case "5qBMmptQs0L":
+      case "6IvfGPN3800":
         Script39();
         break;
-      case "6CZnbMCCMFT":
+      case "6eGi6VepNiA":
         Script40();
         break;
-      case "5vp7V7Xpz8O":
+      case "6IgTxyb0WJs":
         Script41();
         break;
-      case "6NQXxwEC7Rv":
+      case "6kw5Iq8Alvq":
         Script42();
         break;
-      case "5grOeTmsMly":
+      case "65UwBsXJff6":
         Script43();
         break;
-      case "6ktAX9CAY2Z":
+      case "6hWZSJh8K8b":
         Script44();
         break;
-      case "6VxH5EmHQHw":
+      case "5w4zwgod2Jd":
         Script45();
         break;
-      case "68hObywz7MT":
+      case "6EF1LA1494a":
         Script46();
         break;
-      case "5lHREs7vzXb":
+      case "5gQL13apfEE":
         Script47();
         break;
-      case "6rMoPgpSCT8":
+      case "5ZEVvhnQDcG":
         Script48();
+        break;
+      case "6c9XJ1rVfmj":
+        Script49();
         break;
   }
 }
@@ -835,14 +838,38 @@ head.appendChild(script)
 
 function Script44()
 {
-  Listen();
-English();
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
 
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/3S/3S.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
 }
 
 function Script45()
 {
-  Say();
+  Listen();
+English();
+
 }
 
 function Script46()
@@ -851,6 +878,11 @@ function Script46()
 }
 
 function Script47()
+{
+  Say();
+}
+
+function Script48()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -873,7 +905,7 @@ fetch(url,{
 });
 }
 
-function Script48()
+function Script49()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
