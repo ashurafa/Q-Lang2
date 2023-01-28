@@ -2,152 +2,158 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5augJjNg3QO":
+      case "6eWmdL8p6tH":
         Script1();
         break;
-      case "6QCh4iayxTU":
+      case "6JU7enlZNsj":
         Script2();
         break;
-      case "696oYV5VomO":
+      case "5llvSrSlqOa":
         Script3();
         break;
-      case "5kkc4v8UX4Y":
+      case "6b0O7VMNJFl":
         Script4();
         break;
-      case "5qEZQSv8Jai":
+      case "6qFOl9PTJoK":
         Script5();
         break;
-      case "5hkcN6IHR03":
+      case "5dW18AIK7kB":
         Script6();
         break;
-      case "6Ffz2alB7sv":
+      case "5bH7PplM7lc":
         Script7();
         break;
-      case "5y89CueI5gC":
+      case "6FGr3v6sepi":
         Script8();
         break;
-      case "671QiWkTBqs":
+      case "5q4fFYwvRw7":
         Script9();
         break;
-      case "5okByzAmckg":
+      case "5uAvwLEVbMC":
         Script10();
         break;
-      case "6GA1bROzDMz":
+      case "6lrQ6CaXoKE":
         Script11();
         break;
-      case "5xYZYHFIkk6":
+      case "6BMts1eouKJ":
         Script12();
         break;
-      case "6QFK3G9tP8U":
+      case "5fdhHqA5XMJ":
         Script13();
         break;
-      case "65hcXaI5TCu":
+      case "6QZaGEV7OMe":
         Script14();
         break;
-      case "6mSglaoSySb":
+      case "65QCR0GHHeg":
         Script15();
         break;
-      case "5xPRWgmEFek":
+      case "5dmDqG46IHr":
         Script16();
         break;
-      case "5YmQfgBA9BV":
+      case "6Y1XARAOPeC":
         Script17();
         break;
-      case "69EQ8EGrrrT":
+      case "5cXHqfCTNfO":
         Script18();
         break;
-      case "63j7wzcKzAP":
+      case "5uQ8x7mxidW":
         Script19();
         break;
-      case "6XJ8wwlcT6N":
+      case "6RqXiePWftz":
         Script20();
         break;
-      case "5XHXjzGMCck":
+      case "5zNBfeIZTWY":
         Script21();
         break;
-      case "6knZ9YqpfFE":
+      case "5uOeVMAf1A3":
         Script22();
         break;
-      case "6faCy3xW6U5":
+      case "5a2z6M6X87R":
         Script23();
         break;
-      case "5yWp39GqKC1":
+      case "5gIv7zP0kCI":
         Script24();
         break;
-      case "6SMWMwySiuw":
+      case "5s0j2wZrshQ":
         Script25();
         break;
-      case "6pNrMNvq2Sa":
+      case "5pFK4sVtWmQ":
         Script26();
         break;
-      case "6BLG3O8l2zV":
+      case "6RDyA4veLnb":
         Script27();
         break;
-      case "6cxLeTUw56u":
+      case "5sIg0Bhr7if":
         Script28();
         break;
-      case "6RP03OweQFk":
+      case "6Jo855xKTE0":
         Script29();
         break;
-      case "5bK61RvudKZ":
+      case "6QNMCPb4cEe":
         Script30();
         break;
-      case "5toYxNhhRun":
+      case "6FQ7ueDI0Wq":
         Script31();
         break;
-      case "64STIjypIy7":
+      case "6fIEDgw9XWe":
         Script32();
         break;
-      case "5iA5Nh9fMgC":
+      case "60bTyxtZNBT":
         Script33();
         break;
-      case "6cWO8yxO0QT":
+      case "6PxHQfk8ER4":
         Script34();
         break;
-      case "6Cqp9j8221h":
+      case "5eCIhyxOeOU":
         Script35();
         break;
-      case "60VpDBoPleZ":
+      case "5Wa9j1ORxVu":
         Script36();
         break;
-      case "6ZpNMcjsfRU":
+      case "6pF4rJP540g":
         Script37();
         break;
-      case "5wiHrLlDv2m":
+      case "6PpdcNYjlId":
         Script38();
         break;
-      case "6IvfGPN3800":
+      case "5o8wWbYhecO":
         Script39();
         break;
-      case "6eGi6VepNiA":
+      case "6RD0HbYdwxv":
         Script40();
         break;
-      case "6IgTxyb0WJs":
+      case "62KY6nGOFCx":
         Script41();
         break;
-      case "6kw5Iq8Alvq":
+      case "5wlQ2HsGGLD":
         Script42();
         break;
-      case "65UwBsXJff6":
+      case "5vZM3y0bsCJ":
         Script43();
         break;
-      case "6hWZSJh8K8b":
+      case "5kPu1ATlTaO":
         Script44();
         break;
-      case "5w4zwgod2Jd":
+      case "5VYoA3gPFPg":
         Script45();
         break;
-      case "6EF1LA1494a":
+      case "6LEyykcJcEO":
         Script46();
         break;
-      case "5gQL13apfEE":
+      case "5xcN6eHlaqf":
         Script47();
         break;
-      case "5ZEVvhnQDcG":
+      case "6ZC7ImVF4X6":
         Script48();
         break;
-      case "6c9XJ1rVfmj":
+      case "6oksuqo6Jbu":
         Script49();
+        break;
+      case "5rkWY7uZK5s":
+        Script50();
+        break;
+      case "5qby7JpdDZ9":
+        Script51();
         break;
   }
 }
@@ -506,7 +512,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1/1.js';
+script.src = 'story_content/WebObjects/4/4.js';
 
 // ----------------------
                   
@@ -535,7 +541,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1/1.js';
+script.src = 'story_content/WebObjects/4/4.js';
 
 // ----------------------
                   
@@ -564,7 +570,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2/2.js';
+script.src = 'story_content/WebObjects/U4 Images/images.js';
 
 // ----------------------
                   
@@ -593,7 +599,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2/2.js';
+script.src = 'story_content/WebObjects/3/3.js';
 
 // ----------------------
                   
@@ -651,7 +657,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/3/3.js';
+script.src = 'story_content/WebObjects/U3 Images/images.js';
 
 // ----------------------
                   
@@ -680,7 +686,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/4/4.js';
+script.src = 'story_content/WebObjects/3S/3S.js';
 
 // ----------------------
                   
@@ -709,7 +715,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/4/4.js';
+script.src = 'story_content/WebObjects/2/2.js';
 
 // ----------------------
                   
@@ -738,7 +744,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1S/1S.js';
+script.src = 'story_content/WebObjects/2/2.js';
 
 // ----------------------
                   
@@ -796,7 +802,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/U3 Images/images.js';
+script.src = 'story_content/WebObjects/2S/2S.js';
 
 // ----------------------
                   
@@ -825,7 +831,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/U4 Images/images.js';
+script.src = 'story_content/WebObjects/1/1.js';
 
 // ----------------------
                   
@@ -854,7 +860,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/3S/3S.js';
+script.src = 'story_content/WebObjects/1/1.js';
 
 // ----------------------
                   
@@ -867,22 +873,80 @@ head.appendChild(script)
 
 function Script45()
 {
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1S/1S.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script46()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1S/1S.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script47()
+{
   Listen();
 English();
 
 }
 
-function Script46()
-{
-  Say();
-}
-
-function Script47()
-{
-  Say();
-}
-
 function Script48()
+{
+  Say();
+}
+
+function Script49()
+{
+  Say();
+}
+
+function Script50()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -905,7 +969,7 @@ fetch(url,{
 });
 }
 
-function Script49()
+function Script51()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
