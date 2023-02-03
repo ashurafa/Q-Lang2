@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="G2 T2 U1 Jan 28" />
+              <option name="title_text" value="G2 T2 Feb" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1282,6 +1282,12 @@
           <links>
             <slidelink slideid="_player.6rec6H4pEpV.5yPt3G4biJx" displaytext="Images" expand="false" type="slide" />
             <slidelink slideid="_player.6rec6H4pEpV.6IxDi1vA34k" displaytext="Jumping Arabic" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.61VPAAEbcy9" displaytext="2I Unit 2 Images" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.61VPAAEbcy9.6qdu49ltGtU" displaytext="Images" expand="false" type="slide" />
+            <slidelink slideid="_player.61VPAAEbcy9.6l41jy44L3V" displaytext="Jumping Arabic" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6aXwYQ9WwxL" displaytext="U3 Images" expand="true" type="slide">
