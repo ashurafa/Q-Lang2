@@ -2,7 +2,7 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Wamar Jan 2023 G2 T2 U1 Words: 141
+// Wamar Jan 2023 G2 T2 U1 Words: 178
 
 var Listen =function(){
 	
@@ -14,7 +14,7 @@ var Listen =function(){
 var player = GetPlayer();
 
 //=========================================
-var Words = 141 ; 
+var Words = 178 ; 
 //=========================================
 
 
@@ -170,7 +170,7 @@ var Words= [
 "فوق","up",
 "ضعيف","weak",
 "أسبوع","week",
-"ماذا ","what",
+"ماذا","what",
 "متى","when",
 "من الذى","who",
 "شتاء","winter",
@@ -181,6 +181,43 @@ var Words= [
 "لك","your",
 "نفسك","yourself",
 "لذيذ","yummy",
+"baby","طفل",
+"bell","جرس",
+"big cat","قطة كبيرة",
+"big sun","شمس كبيرة",
+"black gorilla","الغوريلا السوداء",
+"boat","قارب",
+"boys class","فئة الأولاد",
+"Camel","جمل",
+"Elephant","الفيل",
+"flowers","زهور",
+"green snake","ثعبان الأخضر",
+"Gorilla","غوريلا",
+"green grass","عشب اخضر",
+"happy girl","فتاة سعيدة",
+"Lion","أسد",
+"long hands","أيدي طويلة",
+"mountains","الجبال",
+"noisy boy","فتى مزعج",
+"noisy place","مكان صاخب",
+"orange cap","غطاء برتقالي",
+"plastic bag","حقيبة بلاستيكية",
+"quiet","هادئ",
+"shoes","أحذية",
+"short","قصير",
+"small crab","سلطعون صغير",
+"small mouse","فأرة صغيرة",
+"small","صغير",
+"strong","قوي",
+"two cats","قطتان",
+"two faces","وجهين",
+"two mountains","جبالان",
+"white goat","الماعز الأبيض",
+"white moon","قمر أبيض",
+"white snow","ثلج ابيض",
+"yellow cake","كعكة صفراء",
+"yellow snake","الأفعى الأصفر",
+"Zoo","حديقة حيوان",
 
 
 //=========================================
