@@ -2,221 +2,206 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5jTWDf7KUfs":
+      case "66gRWMm5j0V":
         Script1();
         break;
-      case "5mYQSKwNOC7":
+      case "6i6FphZLOa4":
         Script2();
         break;
-      case "5ytbCo8YWxO":
+      case "6llTj1TAuUg":
         Script3();
         break;
-      case "6qJgquHjhwN":
+      case "6oy7vb3yjMO":
         Script4();
         break;
-      case "5n5gVbQVphK":
+      case "5ryLyXC9SKg":
         Script5();
         break;
-      case "5lq6sYzSQcc":
+      case "6jVIGQ2iWWo":
         Script6();
         break;
-      case "6LHmYauDNo0":
+      case "5uVxD5nCeFp":
         Script7();
         break;
-      case "6km3tznysM8":
+      case "5Xcx3sXUubE":
         Script8();
         break;
-      case "61rNfVi2vfM":
+      case "61c43MYNza8":
         Script9();
         break;
-      case "5YnNSKvGvzu":
+      case "5VlY7FXEQwf":
         Script10();
         break;
-      case "6jL12uWi2ZW":
+      case "6e6A4FB85Yt":
         Script11();
         break;
-      case "6rUmLdOlTTF":
+      case "5opMnbvP5jJ":
         Script12();
         break;
-      case "6L8oxhfKq9M":
+      case "68mvIauSvli":
         Script13();
         break;
-      case "6GiZjwIqn59":
+      case "6FY0M7lNezu":
         Script14();
         break;
-      case "6nE9NNm5fkX":
+      case "6NJLrAL2zuE":
         Script15();
         break;
-      case "5v433dkg8nD":
+      case "5u5PK02BomW":
         Script16();
         break;
-      case "5Xcec6IswVn":
+      case "5ZbMR6hmVR2":
         Script17();
         break;
-      case "6LXWLHRRf1L":
+      case "5VOy9OyYUmO":
         Script18();
         break;
-      case "6Y1H4tnNpbJ":
+      case "5ZfwXX0Nn6z":
         Script19();
         break;
-      case "5rhvg6TEvnr":
+      case "5UpXVw1zzH0":
         Script20();
         break;
-      case "6mUP9TeuGnG":
+      case "6gZU4BLD7Te":
         Script21();
         break;
-      case "6bDrn5oon1A":
+      case "6RXCY2C8zLU":
         Script22();
         break;
-      case "5kmr6IanOFr":
+      case "6eVtWS3xsLR":
         Script23();
         break;
-      case "6BpDbmPX1F4":
+      case "67DTSuyl8lp":
         Script24();
         break;
-      case "6Uj1bCdLSE0":
+      case "6ONHi8gcqFR":
         Script25();
         break;
-      case "6iwf0bAuDlv":
+      case "5XheRDm4AxM":
         Script26();
         break;
-      case "614SqzS0KUw":
+      case "6fi9Gpg8UIm":
         Script27();
         break;
-      case "6rYC09Uc9Lf":
+      case "61GpryQ2fAA":
         Script28();
         break;
-      case "6ND3rUCEJRY":
+      case "639dUwccCgE":
         Script29();
         break;
-      case "63WykeHdK7s":
+      case "5kN1Patxblk":
         Script30();
         break;
-      case "6COU4LPf1Mq":
+      case "6jEgVKo8hR2":
         Script31();
         break;
-      case "6dm9K5vK4XP":
+      case "6BPOPBU2WmY":
         Script32();
         break;
-      case "5Z0gp3HbbgY":
+      case "5rjtKoUDHfU":
         Script33();
         break;
-      case "5q3WQw1FcMe":
+      case "5ZPdDbpl97j":
         Script34();
         break;
-      case "5tuqEnYXO1m":
+      case "6XvKj6G5Z5O":
         Script35();
         break;
-      case "6Wvv3JMRqoM":
+      case "6Kf699BRp3L":
         Script36();
         break;
-      case "5nUtM1tZT6H":
+      case "5o9ufCt42Gz":
         Script37();
         break;
-      case "5xKlwGTAVFt":
+      case "60XmHZqBpo6":
         Script38();
         break;
-      case "6X0KNjBXA13":
+      case "6iQx9V0zHXg":
         Script39();
         break;
-      case "5aVk360bSXJ":
+      case "5kTtS4NYHhp":
         Script40();
         break;
-      case "6MmQ3lEAdoH":
+      case "6MFkPWZblbE":
         Script41();
         break;
-      case "6mwTlqDlxYQ":
+      case "63WIkrXVg8u":
         Script42();
         break;
-      case "68HBNkbJDcE":
+      case "5dP4DLdnQsy":
         Script43();
         break;
-      case "5pacNH4CBcB":
+      case "5hjdJX4P86O":
         Script44();
         break;
-      case "6aSsJQo9c90":
+      case "6FZTW9qRTYJ":
         Script45();
         break;
-      case "5gKrP7NtBuF":
+      case "6AXDcphHxHF":
         Script46();
         break;
-      case "69AdNyJd5kU":
+      case "6CCjTYeOkQh":
         Script47();
         break;
-      case "6KQcat7TJxZ":
+      case "6UAnykjAwWR":
         Script48();
         break;
-      case "6DNWfatRsfw":
+      case "68ShFka1cbU":
         Script49();
         break;
-      case "6M47gC7ce4R":
+      case "6QFax2HkpX9":
         Script50();
         break;
-      case "5iktmQtvkOa":
+      case "6QJxVIDqFx7":
         Script51();
         break;
-      case "6dgxsYM8Jzy":
+      case "66CwHtXu7e3":
         Script52();
         break;
-      case "6CEWSDFMpLu":
+      case "6CkaRV13vBu":
         Script53();
         break;
-      case "5X9M5jaaTd7":
+      case "6SWC7U3mgGC":
         Script54();
         break;
-      case "6MrWX9DVwff":
+      case "5q9Osy2f4Ze":
         Script55();
         break;
-      case "6nlvqJIqWUp":
+      case "5oKcIw5ugPc":
         Script56();
         break;
-      case "5ufnDdAaXVE":
+      case "6pJxOE3ydQ4":
         Script57();
         break;
-      case "69VwPLNgG9w":
+      case "5fSH7hdJ52S":
         Script58();
         break;
-      case "62zUsTqIrwU":
+      case "5lsft5shBGq":
         Script59();
         break;
-      case "60iKywYjrNP":
+      case "5eBk5kq2ud6":
         Script60();
         break;
-      case "6fQQHgmmfRN":
+      case "6g3YOzDvoyP":
         Script61();
         break;
-      case "67DH3VBZs3S":
+      case "6b9arVbPVgZ":
         Script62();
         break;
-      case "6ITW8wqg03r":
+      case "62dae0AuSTJ":
         Script63();
         break;
-      case "5klrfiZlNf5":
+      case "6mVALfg2PdL":
         Script64();
         break;
-      case "6c2SpZ0X6yF":
+      case "6o0VApz2MwZ":
         Script65();
         break;
-      case "5cePzXJaXWM":
+      case "5Uo4dCK102b":
         Script66();
         break;
-      case "6iEj0xs5bHo":
+      case "6TbjU711k0H":
         Script67();
-        break;
-      case "6KlPvsdlbBg":
-        Script68();
-        break;
-      case "5cfTSe5H6OE":
-        Script69();
-        break;
-      case "6Ju9yaTkMwM":
-        Script70();
-        break;
-      case "5dLcv9LG6TM":
-        Script71();
-        break;
-      case "65OgXFL3AoJ":
-        Script72();
         break;
   }
 }
@@ -256,57 +241,32 @@ function Script4()
 
 function Script5()
 {
-  SayQ4();
+  SayQ3();
 }
 
 function Script6()
 {
-  SayQ3();
+  SayQ2();
 }
 
 function Script7()
 {
-  SayQ3();
+  SayQ1();
 }
 
 function Script8()
 {
-  SayQ2();
+  SayQ();
 }
 
 function Script9()
-{
-  SayQ2();
-}
-
-function Script10()
-{
-  SayQ1();
-}
-
-function Script11()
-{
-  SayQ1();
-}
-
-function Script12()
-{
-  SayQ();
-}
-
-function Script13()
-{
-  SayQ();
-}
-
-function Script14()
 {
   
 SayA();
 
 }
 
-function Script15()
+function Script10()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -329,7 +289,7 @@ fetch(url,{
 });
 }
 
-function Script16()
+function Script11()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
@@ -353,19 +313,19 @@ fetch(url,{
 });
 }
 
-function Script17()
+function Script12()
 {
   Listen();
 English();
 
 }
 
-function Script18()
+function Script13()
 {
   Say();
 }
 
-function Script19()
+function Script14()
 {
   // getting variables from SL for the dimenssions scaleX and scaleY. Both scaleX and scaleY are SL numeric variables.
 
@@ -381,12 +341,12 @@ gsap.to( QBox , { duration:1.0, scale: 1.1, ease: "elastic.out(1.5, 0.15)" });
 
 }
 
-function Script20()
+function Script15()
 {
   Say();
 }
 
-function Script21()
+function Script16()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -407,278 +367,278 @@ fetch(url,{
   redirect: 'follow',
   body: JSON.stringify({text: Collected})
 });
+}
+
+function Script17()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script18()
+{
+  RandImages();
+}
+
+function Script19()
+{
+  SayQ1();
+}
+
+function Script20()
+{
+  SayQ();
+
+}
+
+function Script21()
+{
+  SayQ3();
 }
 
 function Script22()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ2();
 }
 
 function Script23()
 {
-  RandImages();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script24()
 {
-  SayQ1();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script25()
 {
-  SayQ();
-
+  RandImages();
 }
 
 function Script26()
 {
-  SayQ3();
+  SayQ1();
 }
 
 function Script27()
 {
-  SayQ2();
+  SayQ();
+
 }
 
 function Script28()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ⓪";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ3();
 }
 
 function Script29()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ2();
 }
 
 function Script30()
 {
-  RandImages();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script31()
 {
-  SayQ1();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script32()
 {
-  SayQ();
-
+  RandImages();
 }
 
 function Script33()
 {
-  SayQ3();
+  SayQ1();
 }
 
 function Script34()
 {
-  SayQ2();
+  SayQ();
+
 }
 
 function Script35()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ⓪";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ3();
 }
 
 function Script36()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ2();
 }
 
 function Script37()
 {
-  RandImages();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script38()
 {
-  SayQ1();
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
 }
 
 function Script39()
 {
-  SayQ();
-
+  RandImages();
 }
 
 function Script40()
 {
-  SayQ3();
-}
-
-function Script41()
-{
-  SayQ2();
-}
-
-function Script42()
-{
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ⓪";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
-}
-
-function Script43()
-{
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
-}
-
-function Script44()
-{
-  RandImages();
-}
-
-function Script45()
-{
   SayQ1();
 }
 
-function Script46()
+function Script41()
 {
   SayQ();
 
 }
 
-function Script47()
+function Script42()
 {
   SayQ3();
 }
 
-function Script48()
+function Script43()
 {
   SayQ2();
 }
 
-function Script49()
+function Script44()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -701,7 +661,7 @@ fetch(url,{
 });
 }
 
-function Script50()
+function Script45()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
@@ -725,7 +685,7 @@ fetch(url,{
 });
 }
 
-function Script51()
+function Script46()
 {
   // To set the date of today
 
@@ -735,7 +695,7 @@ var datestring =  (d.getMonth()+1) + "-" +  d.getDate() + "-" + d.getFullYear();
 player.SetVar ("Date",datestring);
 }
 
-function Script52()
+function Script47()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -764,7 +724,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script53()
+function Script48()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -793,7 +753,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script54()
+function Script49()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -822,7 +782,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script55()
+function Script50()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -851,7 +811,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script56()
+function Script51()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -880,7 +840,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script57()
+function Script52()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -909,7 +869,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script58()
+function Script53()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -938,7 +898,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script59()
+function Script54()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -967,7 +927,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script60()
+function Script55()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -996,7 +956,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script61()
+function Script56()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1025,7 +985,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script62()
+function Script57()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1054,7 +1014,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script63()
+function Script58()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1083,7 +1043,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script64()
+function Script59()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1112,7 +1072,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script65()
+function Script60()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1141,7 +1101,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script66()
+function Script61()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1170,7 +1130,7 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script67()
+function Script62()
 {
   // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
 // SL Trigger to call External JS file called my_functions.js
@@ -1199,24 +1159,24 @@ head.appendChild(script)
 // alert("Slide 2");
 }
 
-function Script68()
+function Script63()
 {
   Listen();
 English();
 
 }
 
-function Script69()
+function Script64()
 {
   Say();
 }
 
-function Script70()
+function Script65()
 {
   Say();
 }
 
-function Script71()
+function Script66()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -1239,7 +1199,7 @@ fetch(url,{
 });
 }
 
-function Script72()
+function Script67()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
