@@ -2,203 +2,221 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "64wpj6D2IFA":
+      case "5jTWDf7KUfs":
         Script1();
         break;
-      case "6T0rMfdjL2O":
+      case "5mYQSKwNOC7":
         Script2();
         break;
-      case "6ZKctmUP3Ga":
+      case "5ytbCo8YWxO":
         Script3();
         break;
-      case "5zNkgQ9Orfd":
+      case "6qJgquHjhwN":
         Script4();
         break;
-      case "6orH3rQdb8M":
+      case "5n5gVbQVphK":
         Script5();
         break;
-      case "6J3X5vQEIpU":
+      case "5lq6sYzSQcc":
         Script6();
         break;
-      case "5W7tlRYtBvV":
+      case "6LHmYauDNo0":
         Script7();
         break;
-      case "5dhQ1LeJxOi":
+      case "6km3tznysM8":
         Script8();
         break;
-      case "6NyOAmW22q4":
+      case "61rNfVi2vfM":
         Script9();
         break;
-      case "5lBkNpYudhm":
+      case "5YnNSKvGvzu":
         Script10();
         break;
-      case "6Iww3EvdZ1O":
+      case "6jL12uWi2ZW":
         Script11();
         break;
-      case "68rIlCr1Ijs":
+      case "6rUmLdOlTTF":
         Script12();
         break;
-      case "5xe6GwgpHQH":
+      case "6L8oxhfKq9M":
         Script13();
         break;
-      case "5XtXMWK1L3y":
+      case "6GiZjwIqn59":
         Script14();
         break;
-      case "5ct6RxNOoZx":
+      case "6nE9NNm5fkX":
         Script15();
         break;
-      case "6Uwo2e6ewbG":
+      case "5v433dkg8nD":
         Script16();
         break;
-      case "6rR3hd96Z1P":
+      case "5Xcec6IswVn":
         Script17();
         break;
-      case "6KWAZEyVT7a":
+      case "6LXWLHRRf1L":
         Script18();
         break;
-      case "6Pt8saoh8aD":
+      case "6Y1H4tnNpbJ":
         Script19();
         break;
-      case "5fbehSHLUHC":
+      case "5rhvg6TEvnr":
         Script20();
         break;
-      case "6pj6JR3wODR":
+      case "6mUP9TeuGnG":
         Script21();
         break;
-      case "6J5TzfRjCeF":
+      case "6bDrn5oon1A":
         Script22();
         break;
-      case "5syWz2jHjCA":
+      case "5kmr6IanOFr":
         Script23();
         break;
-      case "6dzYGLMC1Aa":
+      case "6BpDbmPX1F4":
         Script24();
         break;
-      case "6VEcEQTVfJd":
+      case "6Uj1bCdLSE0":
         Script25();
         break;
-      case "6FStw89RByL":
+      case "6iwf0bAuDlv":
         Script26();
         break;
-      case "68YHcUCVn5K":
+      case "614SqzS0KUw":
         Script27();
         break;
-      case "6JRXVlt4Fh9":
+      case "6rYC09Uc9Lf":
         Script28();
         break;
-      case "6iok1qs51yM":
+      case "6ND3rUCEJRY":
         Script29();
         break;
-      case "6rRVvT8EBpD":
+      case "63WykeHdK7s":
         Script30();
         break;
-      case "5oneIWdi3t8":
+      case "6COU4LPf1Mq":
         Script31();
         break;
-      case "5ujM3GCFqqy":
+      case "6dm9K5vK4XP":
         Script32();
         break;
-      case "6mG93MqpSch":
+      case "5Z0gp3HbbgY":
         Script33();
         break;
-      case "6NSdZEKp9ij":
+      case "5q3WQw1FcMe":
         Script34();
         break;
-      case "69hhJ9l9e3o":
+      case "5tuqEnYXO1m":
         Script35();
         break;
-      case "6HKhP93mDaS":
+      case "6Wvv3JMRqoM":
         Script36();
         break;
-      case "6ReNRrfwaEK":
+      case "5nUtM1tZT6H":
         Script37();
         break;
-      case "65HVudqjH3R":
+      case "5xKlwGTAVFt":
         Script38();
         break;
-      case "5sHknnRIUhf":
+      case "6X0KNjBXA13":
         Script39();
         break;
-      case "69YeSiSwnBD":
+      case "5aVk360bSXJ":
         Script40();
         break;
-      case "6OY2JGHSgvP":
+      case "6MmQ3lEAdoH":
         Script41();
         break;
-      case "6CPo4Z9dpTZ":
+      case "6mwTlqDlxYQ":
         Script42();
         break;
-      case "5oi2BR6e9Ye":
+      case "68HBNkbJDcE":
         Script43();
         break;
-      case "6OT5tqhsg3Z":
+      case "5pacNH4CBcB":
         Script44();
         break;
-      case "6clG0SWphpy":
+      case "6aSsJQo9c90":
         Script45();
         break;
-      case "6MA2WKeseRQ":
+      case "5gKrP7NtBuF":
         Script46();
         break;
-      case "5Vn8hbWgZcP":
+      case "69AdNyJd5kU":
         Script47();
         break;
-      case "6SVkBhA67J0":
+      case "6KQcat7TJxZ":
         Script48();
         break;
-      case "5aLnbRuiJ4z":
+      case "6DNWfatRsfw":
         Script49();
         break;
-      case "63RTnwARNAM":
+      case "6M47gC7ce4R":
         Script50();
         break;
-      case "5gUekqhmpqV":
+      case "5iktmQtvkOa":
         Script51();
         break;
-      case "5eGKNrc1stS":
+      case "6dgxsYM8Jzy":
         Script52();
         break;
-      case "6HFn1wVEvHI":
+      case "6CEWSDFMpLu":
         Script53();
         break;
-      case "5eayjzo4Kyl":
+      case "5X9M5jaaTd7":
         Script54();
         break;
-      case "5gg4ayhdinz":
+      case "6MrWX9DVwff":
         Script55();
         break;
-      case "617UVYqC0RA":
+      case "6nlvqJIqWUp":
         Script56();
         break;
-      case "5hfObASqlrl":
+      case "5ufnDdAaXVE":
         Script57();
         break;
-      case "5dykMzyKQ8X":
+      case "69VwPLNgG9w":
         Script58();
         break;
-      case "60NOl74eGL1":
+      case "62zUsTqIrwU":
         Script59();
         break;
-      case "6aS2Ni21ock":
+      case "60iKywYjrNP":
         Script60();
         break;
-      case "6e2ZAFSDSGl":
+      case "6fQQHgmmfRN":
         Script61();
         break;
-      case "6mXkBIuAAgG":
+      case "67DH3VBZs3S":
         Script62();
         break;
-      case "5XAyyu9r2m5":
+      case "6ITW8wqg03r":
         Script63();
         break;
-      case "5aSpCTbQaRd":
+      case "5klrfiZlNf5":
         Script64();
         break;
-      case "6pTwZtXBBU7":
+      case "6c2SpZ0X6yF":
         Script65();
         break;
-      case "5tu5W2TxDuK":
+      case "5cePzXJaXWM":
         Script66();
+        break;
+      case "6iEj0xs5bHo":
+        Script67();
+        break;
+      case "6KlPvsdlbBg":
+        Script68();
+        break;
+      case "5cfTSe5H6OE":
+        Script69();
+        break;
+      case "6Ju9yaTkMwM":
+        Script70();
+        break;
+      case "5dLcv9LG6TM":
+        Script71();
+        break;
+      case "65OgXFL3AoJ":
+        Script72();
         break;
   }
 }
@@ -238,102 +256,54 @@ function Script4()
 
 function Script5()
 {
-  SayQ3();
+  SayQ4();
 }
 
 function Script6()
 {
-  SayQ2();
+  SayQ3();
 }
 
 function Script7()
 {
-  SayQ1();
+  SayQ3();
 }
 
 function Script8()
 {
-  SayQ();
+  SayQ2();
 }
 
 function Script9()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ⓪";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ2();
 }
 
 function Script10()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  SayQ1();
 }
 
 function Script11()
 {
-  Listen();
-English();
-
+  SayQ1();
 }
 
 function Script12()
 {
-  Say();
+  SayQ();
 }
 
 function Script13()
 {
-  // getting variables from SL for the dimenssions scaleX and scaleY. Both scaleX and scaleY are SL numeric variables.
-
-let player = GetPlayer();
-
-// connecting SL's object  to gsap through accessiblity text
-
-var QBox = document.querySelector("[data-acc-text='QBox']");
-
-// applying gsap animation functions ob the object
-
-gsap.to( QBox , { duration:1.0, scale: 1.1, ease: "elastic.out(1.5, 0.15)" });
-
+  SayQ();
 }
 
 function Script14()
 {
-  Say();
+  
+SayA();
+
 }
 
 function Script15()
@@ -385,31 +355,38 @@ fetch(url,{
 
 function Script17()
 {
-  RandImages();
+  Listen();
+English();
+
 }
 
 function Script18()
 {
-  SayQ1();
+  Say();
 }
 
 function Script19()
 {
-  SayQ();
+  // getting variables from SL for the dimenssions scaleX and scaleY. Both scaleX and scaleY are SL numeric variables.
+
+let player = GetPlayer();
+
+// connecting SL's object  to gsap through accessiblity text
+
+var QBox = document.querySelector("[data-acc-text='QBox']");
+
+// applying gsap animation functions ob the object
+
+gsap.to( QBox , { duration:1.0, scale: 1.1, ease: "elastic.out(1.5, 0.15)" });
 
 }
 
 function Script20()
 {
-  SayQ3();
+  Say();
 }
 
 function Script21()
-{
-  SayQ2();
-}
-
-function Script22()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -421,6 +398,30 @@ var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storylin
 var WordQ = player.GetVar("WordQ"); 
 
 var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script22()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
 
 fetch(url,{
   method: 'POST',
@@ -434,55 +435,31 @@ fetch(url,{
 
 function Script23()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  RandImages();
 }
 
 function Script24()
 {
-  RandImages();
-}
-
-function Script25()
-{
   SayQ1();
 }
 
-function Script26()
+function Script25()
 {
   SayQ();
 
 }
 
-function Script27()
+function Script26()
 {
   SayQ3();
 }
 
-function Script28()
+function Script27()
 {
   SayQ2();
 }
 
-function Script29()
+function Script28()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -494,6 +471,30 @@ var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storylin
 var WordQ = player.GetVar("WordQ"); 
 
 var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script29()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
 
 fetch(url,{
   method: 'POST',
@@ -507,55 +508,31 @@ fetch(url,{
 
 function Script30()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  RandImages();
 }
 
 function Script31()
 {
-  RandImages();
-}
-
-function Script32()
-{
   SayQ1();
 }
 
-function Script33()
+function Script32()
 {
   SayQ();
 
 }
 
-function Script34()
+function Script33()
 {
   SayQ3();
 }
 
-function Script35()
+function Script34()
 {
   SayQ2();
 }
 
-function Script36()
+function Script35()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -567,6 +544,30 @@ var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storylin
 var WordQ = player.GetVar("WordQ"); 
 
 var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script36()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
 
 fetch(url,{
   method: 'POST',
@@ -580,55 +581,31 @@ fetch(url,{
 
 function Script37()
 {
-  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
-
- 
-
-// Replace this URL with your Web App URL
-const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
-const player = GetPlayer();
-var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
-var WordQ = player.GetVar("WordQ"); 
-
-var Collected = WordA + "  " + WordQ +" ①";
-
-fetch(url,{
-  method: 'POST',
-  mode: 'no-cors',
-  cache: 'no-cache',
-  headers: {'Content-Type': 'application/json'},
-  redirect: 'follow',
-  body: JSON.stringify({text: Collected})
-});
+  RandImages();
 }
 
 function Script38()
 {
-  RandImages();
-}
-
-function Script39()
-{
   SayQ1();
 }
 
-function Script40()
+function Script39()
 {
   SayQ();
 
 }
 
-function Script41()
+function Script40()
 {
   SayQ3();
 }
 
-function Script42()
+function Script41()
 {
   SayQ2();
 }
 
-function Script43()
+function Script42()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -651,7 +628,7 @@ fetch(url,{
 });
 }
 
-function Script44()
+function Script43()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 
@@ -675,7 +652,80 @@ fetch(url,{
 });
 }
 
+function Script44()
+{
+  RandImages();
+}
+
 function Script45()
+{
+  SayQ1();
+}
+
+function Script46()
+{
+  SayQ();
+
+}
+
+function Script47()
+{
+  SayQ3();
+}
+
+function Script48()
+{
+  SayQ2();
+}
+
+function Script49()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ⓪";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script50()
+{
+  // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
+
+ 
+
+// Replace this URL with your Web App URL
+const url = "https://script.google.com/macros/s/AKfycbwGFf464IxSkI6Yo2j6mGuHmRwOF1he3ipp6DzfDheUCPslAnm5YIIhLa1MahWlTLN5wQ/exec";
+const player = GetPlayer();
+var WordA = player.GetVar("WordA"); // Replace "UserFeedback" with your Storyline Variable.
+var WordQ = player.GetVar("WordQ"); 
+
+var Collected = WordA + "  " + WordQ +" ①";
+
+fetch(url,{
+  method: 'POST',
+  mode: 'no-cors',
+  cache: 'no-cache',
+  headers: {'Content-Type': 'application/json'},
+  redirect: 'follow',
+  body: JSON.stringify({text: Collected})
+});
+}
+
+function Script51()
 {
   // To set the date of today
 
@@ -683,180 +733,6 @@ var player = GetPlayer();
 var d = new Date();
 var datestring =  (d.getMonth()+1) + "-" +  d.getDate() + "-" + d.getFullYear();
 player.SetVar ("Date",datestring);
-}
-
-function Script46()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/4/4.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
-}
-
-function Script47()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/4/4.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
-}
-
-function Script48()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/4S/4S.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
-}
-
-function Script49()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/U4 Images/images.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
-}
-
-function Script50()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/3/3.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
-}
-
-function Script51()
-{
-  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
-// SL Trigger to call External JS file called my_functions.js
-// Initially this js file is in the developer folde for the project under resources.
-// To link the js to SL, use Web Object insert pointing out to ....
-// Then publish the project to create the Contents 
-// After that adjust the path of the newly copied js file in the below line
-
- // alert("Slide 1");
-
-var head = document.getElementsByTagName('head')[0];
-
-var script = document.createElement('script');
-
-
-// ----------------------
-
-script.src = 'story_content/WebObjects/3/3.js';
-
-// ----------------------
-                  
-script.type = 'text/javascript';
-
-head.appendChild(script)
-
-// alert("Slide 2");
 }
 
 function Script52()
@@ -877,7 +753,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/3S/3S.js';
+script.src = 'story_content/WebObjects/4/4.js';
 
 // ----------------------
                   
@@ -906,7 +782,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/U3 Images/images.js';
+script.src = 'story_content/WebObjects/4/4.js';
 
 // ----------------------
                   
@@ -935,7 +811,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2/2.js';
+script.src = 'story_content/WebObjects/4S/4S.js';
 
 // ----------------------
                   
@@ -964,7 +840,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2/2.js';
+script.src = 'story_content/WebObjects/U4 Images/images.js';
 
 // ----------------------
                   
@@ -993,7 +869,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2S/2S.js';
+script.src = 'story_content/WebObjects/3/3.js';
 
 // ----------------------
                   
@@ -1022,7 +898,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/2I/images.js';
+script.src = 'story_content/WebObjects/3/3.js';
 
 // ----------------------
                   
@@ -1051,7 +927,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1/1.js';
+script.src = 'story_content/WebObjects/3S/3S.js';
 
 // ----------------------
                   
@@ -1080,7 +956,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1/1.js';
+script.src = 'story_content/WebObjects/U3 Images/images.js';
 
 // ----------------------
                   
@@ -1109,7 +985,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1S/1S.js';
+script.src = 'story_content/WebObjects/2/2.js';
 
 // ----------------------
                   
@@ -1138,7 +1014,7 @@ var script = document.createElement('script');
 
 // ----------------------
 
-script.src = 'story_content/WebObjects/1I/images.js';
+script.src = 'story_content/WebObjects/2/2.js';
 
 // ----------------------
                   
@@ -1151,22 +1027,196 @@ head.appendChild(script)
 
 function Script62()
 {
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/2S/2S.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script63()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/2I/images.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script64()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1/1.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script65()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1/1.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script66()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1S/1S.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script67()
+{
+  // iSL1 to load eJS1 my_functions.js during project start (a simlar iSL2 loads eJS2)
+// SL Trigger to call External JS file called my_functions.js
+// Initially this js file is in the developer folde for the project under resources.
+// To link the js to SL, use Web Object insert pointing out to ....
+// Then publish the project to create the Contents 
+// After that adjust the path of the newly copied js file in the below line
+
+ // alert("Slide 1");
+
+var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+
+
+// ----------------------
+
+script.src = 'story_content/WebObjects/1I/images.js';
+
+// ----------------------
+                  
+script.type = 'text/javascript';
+
+head.appendChild(script)
+
+// alert("Slide 2");
+}
+
+function Script68()
+{
   Listen();
 English();
 
 }
 
-function Script63()
+function Script69()
 {
   Say();
 }
 
-function Script64()
+function Script70()
 {
   Say();
 }
 
-function Script65()
+function Script71()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
  
@@ -1189,7 +1239,7 @@ fetch(url,{
 });
 }
 
-function Script66()
+function Script72()
 {
   // Tranfer the SL word to the Google Sheet (https://docs.google.com/spreadsheets/d/1UXND96QQ9Gey5qSGB05MzezJhjXw6tgNwF0YG1RCgG4/edit#gid=0)
 

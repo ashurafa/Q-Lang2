@@ -220,6 +220,7 @@ var Words= [
 "حديقة حيوان","Zoo",
 
 
+
 //=========================================
 
 ];
@@ -328,3 +329,19 @@ var MyText = player.GetVar("WordQ4");
 let utterance = new SpeechSynthesisUtterance(MyText);
  speechSynthesis.speak(utterance);	
  }
+ 
+ 
+ 
+ 
+  // Code to say Arabic Word in the Question
+var SayA =function(){
+var msg = new SpeechSynthesisUtterance();
+var voices = window.speechSynthesis.getVoices();    
+var lang1="ar" 
+msg.voice =voices[2]; 
+msg.lang=lang1; 
+
+msg.text = WordQ;
+
+window.speechSynthesis.speak(msg);
+}
