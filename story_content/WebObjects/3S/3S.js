@@ -1,6 +1,6 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Qamar Jan 2023 G2 T2 U3 S
+// Qamar Jan 2023 G2 T2 U1 Words: 47
 
 var Listen =function(){
 	
@@ -11,71 +11,64 @@ var Listen =function(){
 var player = GetPlayer();
 
 //=========================================
-
+var Words = 47 ; 
 //=========================================
 
 
-
+var NumA=  5* (Math.floor(Math.random() * Words))+1;
 var Words= [
 "Keep like this.",
 
 
 //=========================================
 
-"	This  is  a black circle.	", "	This ","is ","a black","circle.	",
-"	This  is  a blue circle.	", "	This ","is ","a blue","circle.	",
-"	That  is  a brone circle.	", "	That ","is ","a brone","circle.	",
-"	This  is  a small book.	", "	This ","is ","a small","book.	",
-"	Please give me a book.	", "	Please","give","me a","book.	",
-"	It's big  brown circle.	", "	It's","big"," brown","circle.	",
-"	These  are three triangles.	", "	These ","are","three","triangles.	",
-"	These  are four squares.	", "	These ","are","four","squares.	",
-"	These  are four circles.	", "	These ","are","four","circles.	",
-"	I like my boot.	", "	I","like","my","boot.	",
-"	This  is  my  small boot.	", "	This ","is ","my  small","boot.	",
-"	I don't like bread.	", "	I","don't","like","bread.	",
-"	That is my bus.	", "	That","is","my","bus.	",
-"	These  are  small chimpanzees.	", "	These ","are ","small","chimpanzees.	",
-"	These  are  small crocodiles.	", "	These ","are ","small","crocodiles.	",
-"	That is my cup.	", "	That","is","my","cup.	",
-"	These are  nice dresses.	", "	These","are ","nice","dresses.	",
-"	I like my dresses.	", "	I","like","my","dresses.	",
-"	No, it's a small duck.	", "	No,","it's","a small","duck.	",
-"	Yes,  it's a small elephant.	", "	Yes, ","it's","a small","elephant.	",
-"	Sorry, I don't want food.	", "	Sorry,","I don't","want","food.	",
-"	Please clean your foot.	", "	Please","clean","your","foot.	",
-"	Look!  It's a small fox.	", "	Look! ","It's","a small","fox.	",
-"	My head is big.	", "	My","head","is","big.	",
-"	These  are four hippos.	", "	These ","are","four","hippos.	",
-"	That is  an ugly lion.	", "	That","is ","an ugly","lion.	",
-"	You are  not a lion.	", "	You","are ","not a","lion.	",
-"	Sorry, I don't want meat.	", "	Sorry,","I don't","want","meat.	",
-"	You are  not a monkey.	", "	You","are ","not a","monkey.	",
-"	It is  a full moon.	", "	It","is ","a full","moon.	",
-"	Look!  It's a big octopus.	", "	Look! ","It's","a big","octopus.	",
-"	Yes,  I  can read.	", "	Yes, ","I ","can","read.	",
-"	Yes,  I  can write.	", "	Yes, ","I ","can","write.	",
-"	Look!  It's a big rope.	", "	Look! ","It's","a big","rope.	",
-"	Look!  It's a black snake.	", "	Look! ","It's","a black","snake.	",
-"	Look!  It's a small tiger.	", "	Look! ","It's","a small","tiger.	",
-"	These  are four zebras.	", "	These ","are","four","zebras.	",
-"	I love wild  animals.	", "	I","love","wild ","animals.	",
-"	These  monkeys   are cute.	", "	These ","monkeys  ","are","cute.	",
-"	Where is  the  octopus?	", "	Where","is ","the ","octopus?	",
-"	Where is  the  rope?	", "	Where","is ","the ","rope?	",
-"	Where is  the  moon?	", "	Where","is ","the ","moon?	",
-"	Where is  the  bread?	", "	Where","is ","the ","bread?	",
-"	Where is  the  circle?	", "	Where","is ","the ","circle?	",
-"	Practice  the  talks  in pairs.	", "	Practice ","the"," talks"," in pairs.	",
-"	Listen  to  the  teacher.	", "	Listen ","to"," the"," teacher.	",
-"	Where is your heaa?	", "	Where","is","your","heaa?	",
-"	Where is your nose?	", "	Where","is","your","nose?	",
-"	Listen,  say,  and  match.	", "	Listen,"," say, ","and"," match.	",
-"	What  Animal  Is  This?	", "	What ","Animal ","Is"," This?	",
-"	Listen,  point,  and  say.	", "	Listen,"," point, ","and ","say.	",
-"	Zebras are  black  and  white.	", "	Zebras are ","black"," and"," white.	",
-"	Chimpanzees  have  long  arms.	", "	Chimpanzees ","have"," long ","arms.	",
-"	listen , point , and  match pictures.	", "	listen",", point",", and ","match pictures.	",
+"	My  Day, Animals,  Places	", "	My ","Day,","Animals, ","Places	",
+"	It is funny talk  time.	", "	It is","funny","talk ","time.	",
+"	Qamar, listen  and  say.	", "	Qamar,","listen ","and ","say.	",
+"	I  play with  my friends.	", "	I ","play","with ","my friends.	",
+"	Do you  play  with  your friends?	", "	Do you ","play ","with ","your friends?	",
+"	What time is it now?	", "	What","time","is it","now?	",
+"	I  get up at 6  o’clock.	", "	I ","get up","at 6 ","o’clock.	",
+"	Tell  me about  your day?	", "	Tell ","me","about ","your day?	",
+"	What time  do you  eat lunch?	", "	What time ","do you ","eat","lunch?	",
+"	Do you  watch TV  in the evening?	", "	Do you ","watch","TV ","in the evening?	",
+"	I watch TV everyday.	", "	I","watch","TV","everyday.	",
+"	I get up  at 6  o’clock!	", "	I","get up ","at 6 ","o’clock!	",
+"	It can  walk  and  swim.	", "	It can ","walk ","and ","swim.	",
+"	My  sister can walk.	", "	My ","sister","can","walk.	",
+"	Let's  eat some food.	", "	Let's ","eat","some","food.	",
+"	Their  color is white.	", "	Their ","color","is","white.	",
+"	Their  skin is green.	", "	Their ","skin","is","green.	",
+"	They can  jump  and  dive.	", "	They can ","jump ","and ","dive.	",
+"	It’s  sunny and  very hot	", "	It’s ","sunny","and ","very hot	",
+"	Does he  work in an office?	", "	Does he ","work","in","an office?	",
+"	it is not  rainey, it is snowy.	", "	it is not ","rainey,","it is","snowy.	",
+"	Do you like snow?	", "	Do","you","like","snow?	",
+"	Qamar, do you  like rain?	", "	Qamar,","do you ","like","rain?	",
+"	Do you like winter?	", "	Do","you","like","winter?	",
+"	I don't like winter.	", "	I","don't","like","winter.	",
+"	What do you do?	", "	What","do","you","do?	",
+"	She likes white clouds.	", "	She","likes","white","clouds.	",
+"	It's cloudy  in the winter.	", "	It's","cloudy ","in","the winter.	",
+"	It's  sunny  and  hot.	", "	It's ","sunny ","and ","hot.	",
+"	What   does  he  do?	", "	What "," does ","he ","do?	",
+"	She is a school teacher.	", "	She","is","a school","teacher.	",
+"	He is not a businessman.	", "	He","is","not","a businessman.	",
+"	She has  long,  brown  hair.	", "	She has ","long, ","brown ","hair.	",
+"	He is wearing a thobe.	", "	He","is","wearing","a thobe.	",
+"	I  read about  bread.	", "	I ","read","about ","bread.	",
+"	I  like sheep meat.	", "	I ","like","sheep","meat.	",
+"	Look  at this  picture.	", "	Look ","at","this ","picture.	",
+"	It is a small tooth.	", "	It","is","a small","tooth.	",
+"	My teeth are not clean.	", "	My","teeth","are not","clean.	",
+"	They are clean teeth.	", "	They","are","clean","teeth.	",
+"	My house is next to school.	", "	My house","is","next to","school.	",
+"	The mall  is  after the park.	", "	The mall ","is ","after","the park.	",
+"	There‘s  a rug  behind  the bed.	", "	There‘s ","a rug ","behind ","the bed.	",
+"	I love my town.	", "	I","love","my","town.	",
+"	I like this  picture.	", "	I","like","this ","picture.	",
+"	This is my bed.	", "	This","is","my","bed.	",
+"	This is  a green rug.	", "	This","is ","a green","rug.	",
 
 
 //=========================================
@@ -84,13 +77,6 @@ var Words= [
 
 // Code to decide if the word in the quetion is Arabic or English. 
 // Question word is English. All answer words arein Arabic.
-
-var length= Words.length;
-
-
-
-var NumA=  5* (Math.floor(Math.random() * length/5))+1;
-
 
 var WordA = Words[NumA+1];
 var WordQ = Words[NumA];
@@ -164,6 +150,43 @@ let utterance = new SpeechSynthesisUtterance(MyText);
 var SayQ4 =function(){
 var player = GetPlayer();
 var MyText = player.GetVar("WordQ4");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA1 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA1");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA2 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA2");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA3 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA3");
 		
 let utterance = new SpeechSynthesisUtterance(MyText);
  speechSynthesis.speak(utterance);	

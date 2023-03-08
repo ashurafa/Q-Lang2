@@ -1,6 +1,6 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Qamar Jan 2023 G2 T2 U1 Words: 72
+// Qamar Jan 2023 G2 T2 U1 Words: 66
 
 var Listen =function(){
 	
@@ -11,7 +11,7 @@ var Listen =function(){
 var player = GetPlayer();
 
 //=========================================
-var Words = 72 ; 
+var Words = 66 ; 
 //=========================================
 
 
@@ -22,80 +22,72 @@ var Words= [
 
 //=========================================
 
-"	Look! It's a plastic bag!	", "	Look!","It's","a plastic","bag!	",
-"	Look! It's a snake!	", "	Look!","It's","a","snake!	",
-"	It is very beautiful!	", "	It","is","very","beautiful!	",
-"	No, it's very long!	", "	No,","it's","very","long!	",
-"	Practice, act and  talk.	", "	Practice,","act","and ","talk.	",
-"	Show me the snake.	", "	Show","me","the","snake.	",
-"	No, it's a long bag.	", "	No,","it's","a long","bag.	",
-"	Yes, she's a long girl.	", "	Yes,","she's","a long","girl.	",
-"	Yes, she's a short girl.	", "	Yes,","she's","a short","girl.	",
-"	Yes, he's a long boy.	", "	Yes,","he's","a long","boy.	",
-"	Yes, he's a short boy.	", "	Yes,","he's","a short","boy.	",
-"	Listen, point, and say.	", "	Listen,","point,","and","say.	",
-"	Show me the girl.	", "	Show","me","the","girl.	",
-"	Show me the bag.	", "	Show","me","the","bag.	",
-"	Show me the boy.	", "	Show","me","the","boy.	",
-"	Look around and me.	", "	Look","around","and","me.	",
-"	She is beautiful girl.	", "	She","is","beautiful","girl.	",
-"	It is beautiful flower.	", "	It","is","beautiful","flower.	",
-"	It is a small bag.	", "	It","is","a small","bag.	",
-"	She is a quiet girl.	", "	She","is","a quiet","girl.	",
-"	It is a noisy snake.	", "	It","is","a noisy","snake.	",
-"	It is a weak bag.	", "	It","is","a weak","bag.	",
-"	It is a gray mouse.	", "	It","is","a gray","mouse.	",
-"	It is a red elephant.	", "	It","is","a red","elephant.	",
-"	It is a yummy  cake.	", "	It","is","a yummy ","cake.	",
-"	It is a noisy class.	", "	It","is","a noisy","class.	",
-"	It is beautiful glass.	", "	It","is","beautiful","glass.	",
-"	It is green grass.	", "	It","is","green","grass.	",
-"	It is small cap.	", "	It","is","small","cap.	",
-"	It is a short goat.	", "	It","is","a short","goat.	",
-"	It is a gray gorilla.	", "	It","is","a gray","gorilla.	",
-"	It is a big class.	", "	It","is","a big","class.	",
-"	It is a strong car.	", "	It","is","a strong","car.	",
-"	It is an ugly snake.	", "	It","is","an ugly","snake.	",
-"	It is an ugly monster.	", "	It","is","an ugly","monster.	",
-"	It is an ugly bag.	", "	It","is","an ugly","bag.	",
-"	It is an ugly bag.	", "	It","is","an ugly","bag.	",
-"	Listen, read and  write.	", "	Listen,","read","and ","write.	",
-"	Sounds, Letters and  Words.	", "	Sounds,","Letters","and ","Words.	",
-"	This  is  plastic bag!	", "	This ","is ","plastic","bag!	",
-"	I  love the mountains.	", "	I ","love","the","mountains.	",
-"	I  love the hills.	", "	I ","love","the","hills.	",
-"	I  love the stars.	", "	I ","love","the","stars.	",
-"	I  love the sky.	", "	I ","love","the","sky.	",
-"	I sit and look.	", "	I","sit","and","look.	",
-"	I look and smile.	", "	I","look","and","smile.	",
-"	I'm under this sky.	", "	I'm","under","this","sky.	",
-"	I'm happy and  strong.	", "	I'm","happy","and ","strong.	",
-"	These are two ducks.	", "	These","are","two","ducks.	",
-"	These are two flowers.	", "	These","are","two","flowers.	",
-"	These are two snakes.	", "	These","are","two","snakes.	",
-"	These are two noses.	", "	These","are","two","noses.	",
-"	These are three hills.	", "	These","are","three","hills.	",
-"	These are three dresses.	", "	These","are","three","dresses.	",
-"	These are three faces.	", "	These","are","three","faces.	",
-"	These are three cats.	", "	These","are","three","cats.	",
-"	Months and Seasons Chant	", "	Months","and","Seasons","Chant	",
-"	Listen, match and chant.	", "	Listen,","match","and","chant.	",
-"	Back to school, it's fall.	", "	Back","to school,","it's","fall.	",
-"	Name seasons and months.	", "	Name","seasons","and","months.	",
-"	Listen, point, and say.	", "	Listen,","point,","and","say.	",
-"	Shout opposites in groups.	", "	Shout","opposites","in","groups.	",
-"	Fun time is good.	", "	Fun","time","is","good.	",
-"	Nature is your home.	", "	Nature","is","your","home.	",
-"	I talk about nature.	", "	I","talk","about","nature.	",
-"	I draw something beautiful.	", "	I","draw","something","beautiful.	",
-"	Find and circle 4 words.	", "	Find","and","circle","4 words.	",
-"	Listen, point, and practice.	", "	Listen,","point,","and","practice.	",
-"	Listen, read, and match.	", "	Listen,","read,","and","match.	",
-"	It's big and strong.	", "	It's","big","and","strong.	",
-"	It's small and gray.	", "	It's","small","and","gray.	",
-"	Write the missing letters.	", "	Write","the","missing","letters.	",
-
-
+"	This  is  my  house.	", "	This ","is ","my ","house.	",
+"	This  is  talk  time.	", "	This ","is"," talk ","time.	",
+"	Welcome to  our  house.	", "	Welcome","to ","our ","house.	",
+"	Please,  listen  and  point.	", "	Please, ","listen ","and ","point.	",
+"	I’ll  show  you around.	", "	I’ll ","show ","you","around.	",
+"	This  is the living  room.	", "	This ","is","the living ","room.	",
+"	Practice the talks  in  pairs.	", "	Practice","the talks ","in ","pairs.	",
+"	This is Fun  Time.	", "	This","is","Fun ","Time.	",
+"	This is an old  house.	", "	This","is","an old ","house.	",
+"	Where is the living  room?	", "	Where","is","the living ","room?	",
+"	Where is your  bathroom?	", "	Where","is","your ","bathroom?	",
+"	This is a big bedroom	", "	This","is","a big","bedroom	",
+"	This is a clean kitchen	", "	This","is","a clean","kitchen	",
+"	This is the dining  room.	", "	This","is","the dining ","room.	",
+"	Where is the front door?	", "	Where","is","the front","door?	",
+"	I  found the dining room.	", "	I ","found","the dining","room.	",
+"	See.  Here it is!	", "	See. ","Here","it","is!	",
+"	She talks  about  your house.	", "	She","talks ","about ","your house.	",
+"	I talk about  my house.	", "	I","talk","about ","my house.	",
+"	Where is my partner.	", "	Where","is","my","partner.	",
+"	Are you my  partner?	", "	Are","you","my ","partner?	",
+"	Who is my  partner?	", "	Who","is","my ","partner?	",
+"	Show me  around  the house.	", "	Show me ","around ","the","house.	",
+"	I like  listening  to  my teacher	", "	I like ","listening ","to ","my teacher	",
+"	Where  is the  boy?	", "	Where ","is","the ","boy?	",
+"	Write the  missing letters.	", "	Write","the ","missing","letters.	",
+"	I  don't like frogs.	", "	I ","don't","like","frogs.	",
+"	This  is your present.	", "	This ","is","your","present.	",
+"	Do  you like fries?	", "	Do ","you","like","fries?	",
+"	This is your  prize.	", "	This","is","your ","prize.	",
+"	Don't  forget to  repeat.	", "	Don't ","forget","to ","repeat.	",
+"	Where  is my  dad?	", "	Where ","is","my ","dad?	",
+"	He is in  the bathroom.	", "	He","is","in ","the bathroom.	",
+"	My teacher, Hurry  up!	", "	My","teacher,","Hurry ","up!	",
+"	The mouse is  on  the  chair.	", "	The mouse is ","on ","the ","chair.	",
+"	The mouse is  in the  room.	", "	The mouse is ","in","the ","room.	",
+"	The cat is  under the  bed.	", "	The cat is ","under","the ","bed.	",
+"	The book is  next to  the  fridge.	", "	The book is ","next to ","the ","fridge.	",
+"	Hassan is  behind  the  table.	", "	Hassan is ","behind ","the ","table.	",
+"	Mam,  see  the  cloud.	", "	Mam, ","see ","the ","cloud.	",
+"	My  house is big.	", "	My ","house","is","big.	",
+"	Where is the  mountain?	", "	Where","is","the ","mountain?	",
+"	I  have  two . hands	", "	I ","have"," two .","hands	",
+"	The book  is  inside the box.	", "	The book ","is ","inside","the box.	",
+"	The  sun is  hot.	", "	The ","sun","is"," hot.	",
+"	Would  you like to  come in?	", "	Would ","you","like to"," come in?	",
+"	I’ll  show you around.	", "	I’ll ","show","you","around.	",
+"	This is the living  room.	", "	This","is","the living ","room.	",
+"	This is our class?	", "	This","is","our","class?	",
+"	Water is in  the  bathroom?	", "	Water is","in ","the ","bathroom?	",
+"	Mum is  in  the kitchen.	", "	Mum is ","in ","the","kitchen.	",
+"	This is  not a big  chair.	", "	This is ","not","a big ","chair.	",
+"	This is  not a clean  table.	", "	This is ","not","a clean ","table.	",
+"	Can you  play  with  me?	", "	Can you ","play ","with ","me?	",
+"	I  love my family.	", "	I ","love","my","family.	",
+"	My sun glasses are black.	", "	My","sun glasses","are","black.	",
+"	This  is not my toothbrush.	", "	This ","is not","my","toothbrush.	",
+"	The  train station is big.	", "	The ","train","station","is big.	",
+"	This  is a wall clock.	", "	This ","is","a wall","clock.	",
+"	This  airplane is white.	", "	This ","airplane","is","white.	",
+"	My glass is red.	", "	My","glass","is","red.	",
+"	My plate is white.	", "	My","plate","is","white.	",
+"	I like white sheep.	", "	I","like","white","sheep.	",
+"	Please call  a taxi now.	", "	Please","call ","a taxi","now.	",
+"	Pleae give me some cheese.	", "	Pleae","give me","some","cheese.	",
+"	Do you ike cheese?	", "	Do","you","ike","cheese?	",
 //=========================================
 
 ];
@@ -175,6 +167,43 @@ let utterance = new SpeechSynthesisUtterance(MyText);
 var SayQ4 =function(){
 var player = GetPlayer();
 var MyText = player.GetVar("WordQ4");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA1 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA1");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA2 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA2");
+		
+let utterance = new SpeechSynthesisUtterance(MyText);
+ speechSynthesis.speak(utterance);	
+ }
+ 
+  // Code to say WordQ4 the English word in the Question
+var SayA3 =function(){
+var player = GetPlayer();
+var MyText = player.GetVar("WordA3");
 		
 let utterance = new SpeechSynthesisUtterance(MyText);
  speechSynthesis.speak(utterance);	
